@@ -1,14 +1,14 @@
 //
-//  SwiftUI_02App.swift
-//  SwiftUI_02
+//  SwiftUI_05App.swift
+//  SwiftUI_05
 //
-//  Created by everis Mexico on 17/08/21.
+//  Created by Omar Regalado on 19/11/21.
 //
 
 import SwiftUI
 
 @main
-struct SwiftUI_02App: App {
+struct SwiftUI_05App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
